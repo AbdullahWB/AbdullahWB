@@ -1,1 +1,98 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahWB"><h1 align="center">Hi there, I'm Muhammad Abdullah 👋</h1><h3 align="center">Software Engineer | Data Science & AI/ML Enthusiast</h3>🚀 About Me<p align="center">As a passionate 🎓 <b>Software Engineering student</b> with a keen interest in <b>Data Science and AI/ML</b>, I thrive on building innovative solutions and exploring the cutting edge of technology. My journey involves crafting robust 🌐 <b>web and mobile applications</b> using modern frameworks like Vue, React, and Next.js, alongside diving deep into the complexities of 🧠 <b>Deep Learning and Natural Language Processing (NLP)</b>. I'm dedicated to solving real-world problems through code and data, always eager to learn and contribute to the open-source community.</p>🌱 My Journey & What I'm Learning<p align="center">My academic background in Software Engineering provides a strong foundation in computer science principles, data structures, and algorithms. Beyond the classroom, I'm actively engaged in:<ul><li>Building full-stack applications that bring ideas to life.</li><li>Experimenting with advanced AI/ML models to extract insights and automate tasks.</li><li>Deepening my understanding of cloud platforms and DevOps practices.</li><li>Exploring new programming paradigms and design patterns.</li></ul>I believe in continuous learning and currently, I'm focusing on:<ul><li>Advanced topics in Reinforcement Learning and Generative AI.</li><li>Optimizing application performance and scalability.</li><li>Contributing more actively to impactful open-source projects.</li></ul></p>📫 Connect with Me<p align="center">Let's connect and build something amazing together!<br><a href="https://www.linkedin.com/in/abdullahwb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="25" title="LinkedIn" alt="LinkedIn"></a><a href="https://github.com/AbdullahWB" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" title="GitHub" alt="GitHub"></a><a href="mailto:abdullah917828@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="25" title="Email" alt="Email"></a></p>🛠️ Skills & Technologies<p align="center">Here are some of the technologies and tools I work with:<br><br><strong>Languages:</strong><br><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" title="C" alt="C"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" title="C++" alt="C++"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" title="Java" alt="Java"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" title="Python" alt="Python"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" title="JavaScript" alt="JavaScript"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" title="SQL (PostgreSQL)" alt="PostgreSQL"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" title="SQL (MySQL)" alt="MySQL"></code><br><br><strong>Frameworks & Libraries:</strong><br><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vuedotjs.svg" title="Vue.js" alt="Vue.js"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" title="Next.js" alt="Next.js"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" title="React.js" alt="React.js"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/django.svg" title="Django" alt="Django"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/flask.svg" title="Flask" alt="Flask"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS"></code><br><br><strong>Tools & Platforms:</strong><br><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" title="Git" alt="Git"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" title="GitHub" alt="GitHub"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/npm.svg" title="NPM" alt="NPM"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" title="VSCode" alt="VSCode"></code><br><br><strong>AI/ML & Data Science:</strong><br><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg" title="TensorFlow" alt="TensorFlow"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pytorch.svg" title="PyTorch" alt="PyTorch"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" title="Pandas" alt="Pandas"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" title="NumPy" alt="NumPy"></code><code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scikitlearn.svg" title="scikit-learn" alt="scikit-learn"></code></p>🤖 AI/ML in Action!<p align="center"><img src="https://i.ibb.co/q3WqNc23/Recording-2025-07-25-031518-1.png" alt="AI/ML GIF" width="800"><br><i>Exploring the frontiers of Artificial Intelligence and Machine Learning.</i></p>📌 Featured Repositories<div align="center"><a href="https://github.com/AbdullahWB/chinese_culture"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=chinese_culture&theme=react&border_color=61dafb&border_radius=10"></a><a href="https://github.com/AbdullahWB/Data-Science"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=Data-Science&theme=react&border_color=61dafb&border_radius=10"></a><a href="https://github.com/AbdullahWB/LeetCode-Problem-Solving"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=LeetCode-Problem-Solving&theme=react&border_color=61dafb&border_radius=10"></a><a href="https://github.com/AbdullahWB/Martial-arts-quest-project"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=Martial-arts-quest-project&theme=react&border_color=61dafb&border_radius=10"></a><a href="https://github.com/AbdullahWB/flight-booking-project"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=flight-booking-project&theme=react&border_color=61dafb&border_radius=10"></a></div>📊 GitHub Stats<p align="center"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahWB&theme=react&border=61dafb&hide_border=true" /><img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=react&border_color=61dafb&hide_border=true" /></p>📈 Activity Graph<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahWB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>💡 Future Endeavors & Collaboration<p align="center">I'm always looking for exciting opportunities to apply my skills and grow. Whether it's contributing to impactful open-source projects, collaborating on innovative startups, or tackling challenging AI/ML problems, I'm eager to get involved. If you have a project in mind or just want to chat about tech, feel free to reach out!</p>🧠 Quote to Live By"The best way to predict the future is to invent it." — Alan Kay
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahWB">  
+
+<h1 align="center">Hi there, I'm Muhammad Abdullah 👋</h1>  
+<h3 align="center">💻 Software Engineer | 🤖 Data Science & AI/ML Enthusiast</h3>  
+
+---
+
+### 🚀 About Me
+
+🎓 I’m a **Software Engineering student** with a strong passion for **Data Science, Artificial Intelligence, and Machine Learning**.
+I love building **scalable web & mobile applications** and exploring cutting-edge fields like **Deep Learning, NLP, and Generative AI**.
+
+💡 My mission: Solve **real-world problems** through **code + data**, while contributing to open-source and collaborating on impactful projects.
+
+---
+
+### 🌱 Currently Exploring
+
+* ⚡ **Reinforcement Learning** & **Generative AI**
+* ☁️ Cloud platforms & DevOps practices
+* 🧩 Performance optimization & scalable architectures
+* 🤝 Open-source collaborations
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages** <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" title="C" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" title="C++" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" title="Java" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" title="Python" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" title="JavaScript" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" title="PostgreSQL" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" title="MySQL" /></code>
+
+**Frameworks & Libraries** <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" title="React" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" title="Next.js" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vuedotjs.svg" title="Vue.js" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/django.svg" title="Django" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/flask.svg" title="Flask" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" title="TailwindCSS" /></code>
+
+**AI/ML & Data Science** <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg" title="TensorFlow" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pytorch.svg" title="PyTorch" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" title="Pandas" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" title="NumPy" /></code> <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scikitlearn.svg" title="scikit-learn" /></code>
+
+---
+
+### 🤖 AI/ML in Action
+
+<p align="center">  
+<img src="https://i.ibb.co/q3WqNc23/Recording-2025-07-25-031518-1.png" alt="AI/ML GIF" width="800">  
+<br><i>Exploring the frontiers of Artificial Intelligence and Machine Learning.</i>  
+</p>  
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">  
+<a href="https://github.com/AbdullahWB/chinese_culture"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=chinese_culture&theme=react&border_color=61dafb&border_radius=10"></a>  
+<a href="https://github.com/AbdullahWB/Data-Science"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=Data-Science&theme=react&border_color=61dafb&border_radius=10"></a>  
+<a href="https://github.com/AbdullahWB/LeetCode-Problem-Solving"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=LeetCode-Problem-Solving&theme=react&border_color=61dafb&border_radius=10"></a>  
+<a href="https://github.com/AbdullahWB/Martial-arts-quest-project"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=Martial-arts-quest-project&theme=react&border_color=61dafb&border_radius=10"></a>  
+<a href="https://github.com/AbdullahWB/flight-booking-project"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=flight-booking-project&theme=react&border_color=61dafb&border_radius=10"></a>  
+</div>  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">  
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahWB&theme=react&hide_border=true" />  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=react&hide_border=true" />  
+</p>  
+
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=react&hide_border=true" />  
+</p>  
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahWB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
+</p>  
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">  
+<a href="https://www.linkedin.com/in/abdullahwb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="25" /></a>  
+<a href="https://github.com/AbdullahWB" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" /></a>  
+<a href="mailto:abdullah917828@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="25" /></a>  
+</p>  
+
+---
+
+### 💡 Future Endeavors
+
+🌍 Collaborating on **open-source projects**
+🚀 Building **AI-driven applications**
+📚 Exploring **innovative startups & research**
+
+---
+
+### 🧠 Quote to Live By
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
