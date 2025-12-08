@@ -155,13 +155,30 @@ Pick one and DM me about it:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahWB&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <!-- Use the maintained domain for streak stats. The fallback ensures something appears if one is down -->
+    <picture>
+      <source srcset="https://streak-stats.demolab.com?user=AbdullahWB&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1" />
+      <img width="48%" src="https://streak-stats.demolab.com?user=AbdullahWB&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Cache busting (&v=1) helps avoid stale GitHub caching. You can host your own if Vercel is unreliable. -->
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=react&hide_border=true&v=1" />
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=react&hide_border=true&v=1" alt="GitHub Stats" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+    <!-- You can adjust langs_count to show more languages if needed -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=react&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+  </a>
 </p>
+
 
 <!-- Optional: enable this after setting up the GitHub Actions workflow for the snake graph -->
 
