@@ -1,212 +1,333 @@
+<!-- ========================================================= -->
+<!--                     MUHAMMAD ABDULLAH                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- ══════════════════════════ HEADER BANNER ══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Abdullah&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20AI%2FML%20Builder&descAlignY=58&descSize=18&descColor=aaaaaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:7F00FF&height=230&section=header&text=Muhammad%20Abdullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Data%20Scientist&descAlignY=55&descSize=19"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Deep+Learning+%7C+NLP+%7C+Generative+AI+%E2%9A%A1;Shipping+end-to-end+ML+pipelines+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=%3E+Building+intelligent+systems...;%3E+Turning+ideas+into+real+products...;%3E+Training+models.+Shipping+software...;%3E+Exploring+Generative+AI+%26+Agentic+Systems...;%3E+Always+learning.+Always+building."
+/>
 
 <br/>
 
-<!-- Profile Meta Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdullahWB&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AbdullahWB)
-[![GitHub Followers](https://img.shields.io/github/followers/AbdullahWB?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/AbdullahWB?tab=followers)
-[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge&labelColor=0d1117)](mailto:abdullah917828@gmail.com)
+<a href="https://github.com/AbdullahWB">
+<img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Building in Public"/>
+</a>
+
+<a href="https://github.com/AbdullahWB?tab=followers">
+<img src="https://img.shields.io/github/followers/AbdullahWB?label=FOLLOWERS&style=for-the-badge&color=7F00FF&labelColor=0D1117"/>
+</a>
+
+<a href="mailto:abdullah917828@gmail.com">
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00C853?style=for-the-badge&labelColor=0D1117"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 🧬 The Person Behind the Code
+## `> whoami`
 
-```python
-class MuhammadAbdullah:
-    name        = "Muhammad Abdullah"
-    role        = ["Software Engineer", "Data Scientist", "AI/ML Enthusiast"]
-    location    = "🌏  Open to Remote & Global Opportunities"
+```yaml
+name: Muhammad Abdullah
 
-    languages   = ["Python", "Java", "C/C++", "JavaScript", "SQL"]
-    domains     = ["Deep Learning", "NLP", "Generative AI", "MLOps", "Full-Stack"]
+role:
+  - Software Engineer
+  - AI / ML Builder
+  - Data Science Enthusiast
 
-    currently_exploring = [
-        "⚡  Reinforcement Learning & Autonomous GenAI Agents",
-        "☁️  Cloud-Native DevOps — CI/CD, containers, scalable deployments",
-        "🧩  Performance optimization & production-grade architectures",
-        "📊  Reproducible MLOps & experiment tracking",
-    ]
+focus:
+  - Generative AI
+  - Machine Learning
+  - Deep Learning
+  - Agentic Systems
+  - Full-Stack Engineering
 
-    long_term_goal = "Build AI-driven products that genuinely change how people live"
+currently_exploring:
+  - Reinforcement Learning
+  - Autonomous AI Agents
+  - Production ML Systems
+  - Cloud-Native Architecture
 
-    def greet(self):
-        return "Let's collaborate and ship something impactful together 🚀"
+mission:
+  "Build intelligent products that solve real-world problems."
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahWB&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### 〈 Core Languages 〉
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### 〈 Web Frameworks 〉
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-
-### 〈 AI · ML · Data Science 〉
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-
-### 〈 DevOps & Tools 〉
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  SYSTEM STATUS                          ║
+╠══════════════════════════════════════════════════════════╣
+║  AI / ML          ███████████████░░░   BUILDING        ║
+║  Backend          ██████████████░░░░   SHIPPING        ║
+║  Data Science     ███████████████░░░   ANALYZING       ║
+║  Research         ████████████░░░░░░   EXPLORING       ║
+║  Open Source      ██████████░░░░░░░░   GROWING         ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Matrix
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d9ff" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdullahWB&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" />
+
+### AI · ML · Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+### Full Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,flask,tailwind,nodejs&theme=dark" />
+
+### Databases · DevOps · Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" />
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Selected Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Data Science
+
+Machine-learning experiments, analysis workflows and predictive modeling.
+
+**Highlights**
+- Data preprocessing
+- Exploratory analysis
+- ML algorithms
+- Model evaluation
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `scikit-learn`
+
+<br/>
 
 <a href="https://github.com/AbdullahWB/Data-Science">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=Data-Science&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&border_radius=12" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<a href="https://github.com/AbdullahWB/chinese_culture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=chinese_culture&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&border_radius=12" />
-</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 LeetCode Problem Solving
+
+Algorithm and data-structure solutions documenting my problem-solving journey.
+
+**Highlights**
+- Arrays & Strings
+- Trees & Graphs
+- Dynamic Programming
+- Algorithms
+
+**Focus**
+
+`DSA` `Algorithms` `Problem Solving`
+
+<br/>
+
 <a href="https://github.com/AbdullahWB/LeetCode-Problem-Solving">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=LeetCode-Problem-Solving&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&border_radius=12" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/AbdullahWB/Martial-arts-quest-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=Martial-arts-quest-project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&border_radius=12" />
-</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Flight Booking Platform
+
+Booking application focused on user flows and application architecture.
+
+**Highlights**
+- Booking workflow
+- Interactive interface
+- Application logic
+- Frontend development
+
+**Stack**
+
+`JavaScript` `Web`
+
+<br/>
+
 <a href="https://github.com/AbdullahWB/flight-booking-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahWB&repo=flight-booking-project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&border_radius=12" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
+</td>
+
+<td width="50%" valign="top">
+
+### 🥋 Martial Arts Quest
+
+Interactive martial-arts themed web experience.
+
+**Highlights**
+- Interactive UI
+- Game-style workflow
+- JavaScript logic
+- Responsive interface
+
+**Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br/>
+
+<a href="https://github.com/AbdullahWB/Martial-arts-quest-project">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahWB&custom_title=Contribution%20Timeline&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎮 Brain Teaser Corner
-
-<details>
-<summary><b>🧩 Can you guess the output? (Python + bitwise twist)</b></summary>
+# 🤖 AI Lab
 
 ```python
-def mystery(n: int) -> int:
-    return n ^ (n >> 1)
+class AbdullahAI:
+    def __init__(self):
+        self.interests = [
+            "Generative AI",
+            "Large Language Models",
+            "Agentic AI",
+            "Deep Learning",
+            "Reinforcement Learning"
+        ]
 
-print(mystery(42))
+    def build(self):
+        while True:
+            learn()
+            experiment()
+            fail()
+            improve()
+            ship()
 ```
 
-<details>
-<summary><b>💡 Reveal Answer</b></summary>
-
-**Output: `63`** 🎯
-
-This is a **Gray Code transformation** — a classic bit manipulation technique where adjacent values differ by exactly one bit. Used in error correction, rotary encoders, and Karnaugh maps.
-
-> *"Bit manipulation: the art of making computers do math the way they actually think."*
-
-</details>
-</details>
+> **Current objective:** move from experimenting with models to building complete AI-powered products.
 
 ---
 
-## 💡 Build Something Together
+# 📊 GitHub Intelligence
 
 <div align="center">
 
-| 🧱 Full-Stack Architecture | 🤖 ML/AI Roadmap | 🚀 Startup Prototype |
-|:---:|:---:|:---:|
-| Design scalable systems end-to-end | Structured learning path for AI/ML | Brainstorm → validate → ship fast |
-| [DM on LinkedIn](https://www.linkedin.com/in/abdullahwb) | [DM on LinkedIn](https://www.linkedin.com/in/abdullahwb) | [DM on LinkedIn](https://www.linkedin.com/in/abdullahwb) |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AbdullahWB&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Engine
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahwb)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahWB)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah917828@gmail.com)
-
-**Open to:** Research · Open-Source · Hackathons · AI/ML Startups · Freelance
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 🔭 Looking Ahead
+# 🛰️ Current Mission
 
-- 🌍 Contributing to **open-source** projects with real community impact
-- 🚀 Launching **AI-powered applications** that solve genuine problems
-- 📚 Exploring **RL research**, **agentic AI systems**, and **emerging tech**
-- 🤝 Connecting with engineers, researchers, and builders worldwide
+```text
+[01] Build stronger AI/ML projects
+[02] Explore LLM + Agent architectures
+[03] Develop production-ready applications
+[04] Contribute to open-source ecosystems
+[05] Work on research-oriented AI systems
+[06] Collaborate with engineers worldwide
+```
+
+---
+
+# 🎯 Areas I Want to Build In
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | ⚙️ Software Engineering | 📊 Data Systems |
+|---|---|---|
+| Generative AI | Backend Systems | Data Analysis |
+| NLP | Full-Stack Apps | ML Pipelines |
+| AI Agents | APIs | Visualization |
+| Reinforcement Learning | Cloud Architecture | Predictive Modeling |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdullahwb">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbdullahWB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:abdullah917828@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### `Research • Open Source • AI/ML • Software Engineering • Collaboration`
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" />
+### ⚡ BUILD → BREAK → LEARN → IMPROVE → SHIP
 
-*"The best way to predict the future is to invent it."* — Alan Kay
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:7F00FF&height=120&section=footer"/>
 
 </div>
