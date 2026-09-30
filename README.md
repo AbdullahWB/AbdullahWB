@@ -1,333 +1,152 @@
-<!-- ========================================================= -->
-<!--                     MUHAMMAD ABDULLAH                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:7F00FF&height=230&section=header&text=Muhammad%20Abdullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Data%20Scientist&descAlignY=55&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:7F00FF&height=230&section=header&text=Muhammad%20Abdullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Data%20Scientist&descAlignY=55&descSize=19" alt="Muhammad Abdullah — Software Engineer, AI/ML Builder and Data Scientist"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=%3E+Building+intelligent+systems...;%3E+Turning+ideas+into+real+products...;%3E+Training+models.+Shipping+software...;%3E+Exploring+Generative+AI+%26+Agentic+Systems...;%3E+Always+learning.+Always+building."
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems;Turning+research+into+real+products;Training+models+and+shipping+software;Exploring+Generative+AI+and+Agentic+Systems" alt="Typing introduction"/>
 
-<br/>
-
-<a href="https://github.com/AbdullahWB">
-<img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Building in Public"/>
-</a>
-
-<a href="https://github.com/AbdullahWB?tab=followers">
-<img src="https://img.shields.io/github/followers/AbdullahWB?label=FOLLOWERS&style=for-the-badge&color=7F00FF&labelColor=0D1117"/>
-</a>
-
-<a href="mailto:abdullah917828@gmail.com">
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00C853?style=for-the-badge&labelColor=0D1117"/>
-</a>
+<a href="https://github.com/AbdullahWB?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Explore projects"/></a>
+<a href="https://github.com/AbdullahWB?tab=followers"><img src="https://img.shields.io/github/followers/AbdullahWB?label=Followers&style=for-the-badge&color=7F00FF&labelColor=0D1117" alt="GitHub followers"/></a>
+<a href="mailto:abdullah917828@gmail.com"><img src="https://img.shields.io/badge/Open_to-Collaboration-00C853?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration"/></a>
 
 </div>
 
-<br/>
+## About me
 
-## `> whoami`
+I am a software engineer and AI/ML builder focused on turning ideas, data, and research into useful products. My work sits at the intersection of **machine learning**, **intelligent applications**, and **full-stack engineering**—from training models to designing the systems and interfaces around them.
 
-```yaml
-name: Muhammad Abdullah
-
-role:
-  - Software Engineer
-  - AI / ML Builder
-  - Data Science Enthusiast
-
-focus:
-  - Generative AI
-  - Machine Learning
-  - Deep Learning
-  - Agentic Systems
-  - Full-Stack Engineering
-
-currently_exploring:
-  - Reinforcement Learning
-  - Autonomous AI Agents
-  - Production ML Systems
-  - Cloud-Native Architecture
-
-mission:
-  "Build intelligent products that solve real-world problems."
-```
+- Building AI-assisted products and production-minded ML workflows
+- Exploring LLMs, autonomous agents, deep learning, and reinforcement learning
+- Interested in accessible software, responsible AI, and open-source collaboration
+- Currently moving from model experiments toward complete, deployable systems
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  SYSTEM STATUS                          ║
-╠══════════════════════════════════════════════════════════╣
-║  AI / ML          ███████████████░░░   BUILDING        ║
-║  Backend          ██████████████░░░░   SHIPPING        ║
-║  Data Science     ███████████████░░░   ANALYZING       ║
-║  Research         ████████████░░░░░░   EXPLORING       ║
-║  Open Source      ██████████░░░░░░░░   GROWING         ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img width="96%" src="./images/system-status.svg" alt="Animated system status showing active skills and learning progress"/>
 
 </div>
 
----
-
-# ⚡ Tech Matrix
+## Technology stack
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" alt="Python, Java, C++, C, JavaScript and TypeScript"/>
 
-### AI · ML · Data
+**AI, ML & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow and scikit-learn"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+**Product Engineering**
 
-### Full Stack
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,flask,tailwind,nodejs&theme=dark" />
-
-### Databases · DevOps · Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,flask,tailwind,nodejs,postgres,mysql,docker,git,linux&theme=dark" alt="React, Next.js, Vue, Django, Flask, Tailwind, Node.js, PostgreSQL, MySQL, Docker, Git and Linux"/>
 
 </div>
 
----
-
-# 🚀 Selected Work
+## Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Data Science
+### 🏯 Palace in Motion
 
-Machine-learning experiments, analysis workflows and predictive modeling.
+AI-assisted digital heritage platform for exploring the Forbidden City through panoramic views, guided routes, a grounded AI companion, accessibility controls, preservation education, and a model-ready 3D experience.
 
-**Highlights**
-- Data preprocessing
-- Exploratory analysis
-- ML algorithms
-- Model evaluation
+`Next.js` `TypeScript` `React Three Fiber` `Tailwind CSS` `AI`
 
-**Stack**
-
-`Python` `Pandas` `NumPy` `scikit-learn`
-
-<br/>
-
-<a href="https://github.com/AbdullahWB/Data-Science">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/AbdullahWB/Palace-in-Motion-The-Forbidden-City-3D"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Palace in Motion"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧩 LeetCode Problem Solving
+### 👁️ Retinal Vessel Segmentation
 
-Algorithm and data-structure solutions documenting my problem-solving journey.
+Computer-vision work focused on identifying retinal blood vessels from medical imagery and exploring segmentation workflows for healthcare-oriented image analysis.
 
-**Highlights**
-- Arrays & Strings
-- Trees & Graphs
-- Dynamic Programming
-- Algorithms
+`Deep Learning` `Computer Vision` `Medical Imaging` `Python`
 
-**Focus**
-
-`DSA` `Algorithms` `Problem Solving`
-
-<br/>
-
-<a href="https://github.com/AbdullahWB/LeetCode-Problem-Solving">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/AbdullahWB/Retinal-Vessel-Segmentation"><img src="https://img.shields.io/badge/View_Project-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View Retinal Vessel Segmentation"/></a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ Flight Booking Platform
+### 🧠 Machine Learning
 
-Booking application focused on user flows and application architecture.
+A growing collection of practical machine-learning experiments covering data preparation, model training, evaluation, and iterative analysis.
 
-**Highlights**
-- Booking workflow
-- Interactive interface
-- Application logic
-- Frontend development
+`Python` `Pandas` `NumPy` `scikit-learn`
 
-**Stack**
-
-`JavaScript` `Web`
-
-<br/>
-
-<a href="https://github.com/AbdullahWB/flight-booking-project">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/AbdullahWB/Machine-Learning"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Machine Learning repository"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🥋 Martial Arts Quest
+### 🔬 Deep Learning
 
-Interactive martial-arts themed web experience.
+Hands-on deep-learning studies and implementations designed to strengthen understanding of neural networks, training workflows, and applied model development.
 
-**Highlights**
-- Interactive UI
-- Game-style workflow
-- JavaScript logic
-- Responsive interface
+`Neural Networks` `PyTorch` `TensorFlow` `Python`
 
-**Stack**
-
-`JavaScript` `HTML` `CSS`
-
-<br/>
-
-<a href="https://github.com/AbdullahWB/Martial-arts-quest-project">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/AbdullahWB/Deep-Learning"><img src="https://img.shields.io/badge/View_Project-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View Deep Learning repository"/></a>
 
 </td>
 </tr>
 </table>
 
----
+## Current direction
 
-# 🤖 AI Lab
-
-```python
-class AbdullahAI:
-    def __init__(self):
-        self.interests = [
-            "Generative AI",
-            "Large Language Models",
-            "Agentic AI",
-            "Deep Learning",
-            "Reinforcement Learning"
-        ]
-
-    def build(self):
-        while True:
-            learn()
-            experiment()
-            fail()
-            improve()
-            ship()
+```text
+01  Build end-to-end AI products—not isolated demos
+02  Develop reliable LLM and agent architectures
+03  Improve model evaluation, observability, and deployment
+04  Explore responsible AI for education and healthcare
+05  Contribute useful tools and learning resources to open source
 ```
 
-> **Current objective:** move from experimenting with models to building complete AI-powered products.
-
----
-
-# 📊 GitHub Intelligence
+## GitHub activity
 
 <div align="center">
 
-| Profile | Repositories | Contributions |
-|---|---|---|
-| [View my GitHub profile](https://github.com/AbdullahWB) | [Browse my repositories](https://github.com/AbdullahWB?tab=repositories) | [View my contribution graph](https://github.com/AbdullahWB?tab=overview) |
+<a href="https://github.com/AbdullahWB?tab=followers"><img src="https://img.shields.io/github/followers/AbdullahWB?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=7F00FF" alt="Followers"/></a>
+<a href="https://github.com/AbdullahWB?tab=repositories"><img src="https://img.shields.io/github/stars/AbdullahWB?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=0D1117&color=00D9FF" alt="GitHub stars"/></a>
+<a href="https://github.com/AbdullahWB/AbdullahWB/commits/main"><img src="https://img.shields.io/github/last-commit/AbdullahWB/AbdullahWB?style=for-the-badge&logo=git&label=Profile%20updated&labelColor=0D1117&color=00C853" alt="Profile last updated"/></a>
 
-</div>
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AbdullahWB&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/>
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AbdullahWB&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Engine
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbdullahWB/AbdullahWB/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
----
-
-# 🛰️ Current Mission
-
-```text
-[01] Build stronger AI/ML projects
-[02] Explore LLM + Agent architectures
-[03] Develop production-ready applications
-[04] Contribute to open-source ecosystems
-[05] Work on research-oriented AI systems
-[06] Collaborate with engineers worldwide
-```
-
----
-
-# 🎯 Areas I Want to Build In
+## Connect
 
 <div align="center">
 
-| 🤖 Artificial Intelligence | ⚙️ Software Engineering | 📊 Data Systems |
-|---|---|---|
-| Generative AI | Backend Systems | Data Analysis |
-| NLP | Full-Stack Apps | ML Pipelines |
-| AI Agents | APIs | Visualization |
-| Reinforcement Learning | Cloud Architecture | Predictive Modeling |
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abdullahwb">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AbdullahWB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:abdullah917828@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### `Research • Open Source • AI/ML • Software Engineering • Collaboration`
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ BUILD → BREAK → LEARN → IMPROVE → SHIP
+I am open to collaborating on thoughtful AI/ML, research, open-source, and software-engineering projects.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:7F00FF&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/abdullahwb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/AbdullahWB"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:abdullah917828@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+### `BUILD → TEST → LEARN → IMPROVE → SHIP`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:7F00FF&height=120&section=footer" alt="Footer"/>
 
 </div>
