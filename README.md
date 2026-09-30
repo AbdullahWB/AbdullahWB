@@ -240,9 +240,9 @@ class AbdullahAI:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdullahWB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahWB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+| Profile | Repositories | Contributions |
+|---|---|---|
+| [View my GitHub profile](https://github.com/AbdullahWB) | [Browse my repositories](https://github.com/AbdullahWB?tab=repositories) | [View my contribution graph](https://github.com/AbdullahWB?tab=overview) |
 
 </div>
 
